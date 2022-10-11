@@ -1,1 +1,1 @@
-This repository contains solutions to shell tasks
+This repository contains solution to 0x03-shell_variables_expansions
