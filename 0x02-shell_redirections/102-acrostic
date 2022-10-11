@@ -1,2 +1,2 @@
 #!/bin/bash
-Cut -C 1 | tr -d '\n' | sort
+cut -c1 | paste -s | try -d "[:blank:]"
